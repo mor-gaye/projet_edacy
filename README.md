@@ -62,7 +62,7 @@ Sur la même page vous pouvez modifier ou supprimer un livre
 
 L'API est accessible à l'adresse http://localhost:3001/api lorsque le serveur est en cours d'exécution.
 
-Url principaux :
+Urls principaux :
 
 GET /api/livre - Récupérer tous les livres
 POST /api/livre - Ajouter un nouveau livre
