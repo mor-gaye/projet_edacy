@@ -1,5 +1,5 @@
 # Présentation
-Gestionnaire de Livre est une application web permettant de gérer facilement une collection de livres avec un "CRUD". Cette application a été développée avec React pour le frontend et Node.js pour le backend et avec Docker pour la création d'image et des conteneurs.
+Gestionnaire de Livres est une application web qui permet de gérer facilement une collection de livres grâce aux fonctionnalités complètes du CRUD (Créer, Lire, Mettre à jour, Supprimer). Elle a été développée avec React pour l’interface utilisateur (frontend), Node.js pour le serveur (backend), et utilise Docker pour la création d’images et la gestion des conteneurs.
 
 ✨ Fonctionnalités
 
