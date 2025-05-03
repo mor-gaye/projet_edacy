@@ -7,11 +7,11 @@ Gestionnaire de Livres est une application web qui permet de gérer facilement u
 
 🧰 Technologies utilisées
 
-Docker
-React.js
-Node.js 
-Sequelize
-MySQL
+Docker,
+React.js,
+Node.js,
+Sequelize,
+MySQL et
 Postman : pour pouvoir tester les api
 
 Docker 
