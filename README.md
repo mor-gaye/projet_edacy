@@ -46,9 +46,9 @@ Et phpMyAdmin sera accessible à l'adresse http://localhost:8080/
 
 
 📝 Utilisation
-Connexion à l'application
+Connexion à l'application :
 Accédez à l'application via l'adresse http://localhost:3000 et vous serez directement redirigé
-vers la page d'accueil parcqu'on a pas eu le temps de terminé la partie authentification
+vers la page d'accueil parcque j'ai pas eu le temps de terminé la partie authentification
 
 Ajouter un livre
 
@@ -56,7 +56,7 @@ Tout a été simplifié sur une seule page
 Remplissez le formulaire avec les détails du livre
 Cliquez sur "Ajouter"
 En dessous du formulaire on a la liste des livres ajoutés avec les actions à mener modifier ou supprimer
-Sur la même page vous pouvez modifier ou supprimer un livre
+Sur la même page vous pouvez faire la modification ou la suppression d'un livre
 
 # API Documentation
 
