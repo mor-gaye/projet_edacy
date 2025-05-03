@@ -55,7 +55,7 @@ Ajouter un livre
 Tout a été simplifié sur une seule page 
 Remplissez le formulaire avec les détails du livre
 Cliquez sur "Ajouter"
-En dessous du formulaire on a la liste des livres ajoutés avec les actions à mener modifier ou supprimer
+En dessous du formulaire on a la liste des livres ajoutés avec les actions à mener modifier ou supprimer.
 Sur la même page vous pouvez faire la modification ou la suppression d'un livre
 
 # API Documentation
